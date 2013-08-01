@@ -1,0 +1,14 @@
+{
+	'empresa':[
+		'posicao' : 'A1',
+		'bold' : false,
+		'ref': 'nomeEmpresa',
+		'desc': 'Empresa'
+	],
+	'nomeFans':[
+		'posicao' : 'A3',
+		'bold' : false,
+		'ref': 'nomeEmpresa',
+		'desc': 'Empresa'
+	]
+}
